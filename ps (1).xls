@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html class='pc chrome win psc_dir-ltr psc_form-xlarge' dir='ltr' lang='en'>
+<!-- Copyright (c) 2000, 2019, Oracle and/or its affiliates. All rights reserved. -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><body><table border='1' cellpadding='3' cellspacing='0'>
+<tr>
+<th>Role</th><th>Empl ID</th><th>Name</th><th>Action</th><th>Comment</th><th>Action Date/Time</th></tr>
+<tr>
+<td  >Employee</td>
+<td  >2070349</td>
+<td  >Mudhur,Shreeshail</td>
+<td  >Submitted</td>
+<td  ></td>
+<td  >07/04/2022  4:52:24PM</td>
+<tr>
+<td  >Project Manager</td>
+<td  >239963</td>
+<td  >Krishna Moorthy,Vinod</td>
+<td  >Sent Back For Revision</td>
+<td  >REJECTING AS PER PM REQUEST</td>
+<td  >07/13/2022 10:52:32AM</td>
+<tr>
+<td  >Employee</td>
+<td  >2070349</td>
+<td  >Mudhur,Shreeshail</td>
+<td  >Resubmitted</td>
+<td  ></td>
+<td  >07/15/2022  9:17:00AM</td>
+<tr>
+<td  >Project Manager</td>
+<td  >263046</td>
+<td  >Chaudhuri,Pritam</td>
+<td  >Approved</td>
+<td  ></td>
+<td  >07/19/2022  3:49:14PM</td>
+<tr>
+<td  >Project Manager</td>
+<td  >239963</td>
+<td  >Krishna Moorthy,Vinod</td>
+<td  >Sent Back For Revision</td>
+<td  >SUBMIT IN NEW PROJECT</td>
+<td  >07/21/2022 11:17:40AM</td>
+</table></body></html>
