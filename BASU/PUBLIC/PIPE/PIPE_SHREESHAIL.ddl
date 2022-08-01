@@ -1,0 +1,1 @@
+create or replace pipe PIPE_SHREESHAIL auto_ingest=true comment='i am using  pipe' as COPY INTO "TASK_DB"."PUBLIC"."CUSTOMERS" FROM @"TASK_DB"."PUBLIC"."SHREESHAIL" FILE_FORMAT = ( TYPE =  "CSV" );
